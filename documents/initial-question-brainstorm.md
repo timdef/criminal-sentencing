@@ -24,7 +24,7 @@ Judge point of view on this data
 
 Where do sentencing guidelines live?
 
-Acadademic journals?
+Academic journals?
 
 What nonprofits?
 What journals?
