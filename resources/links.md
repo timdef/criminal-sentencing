@@ -6,7 +6,9 @@
 3. [Data.gov](https://catalog.data.gov/dataset): Primarily a federal governement open data website that compiles federal government data sets per the 2013 Federal Open Data Policy. However state and local governments can also syndicate their data on the website for greater discoverability. The website is maintained by the U.S. General Services Administration, Technology Transformation Service. 
 
 #### State Resources
-1. [California Board of State and Community Corrections](http://www.bscc.ca.gov/m_data&research.php): Datasets and research gathered by the state at the state and county level.  
+1. [California Courts](http://www.courts.ca.gov/12941.htm): State website providing information on California state courts which include **superior courts** (also known as "trial Courts") and **appellate courts**, which are made up of the **Court of Appeals** and **California Supreme Court**.   
+    * [California Courts - Research and Statistics page](http://www.courts.ca.gov/627.htm)
+2. [California Board of State and Community Corrections](http://www.bscc.ca.gov/m_data&research.php): Datasets and research gathered by the state at the state and county level.  
 
 #### Local Resources
 1. [data.lacity.org](https://data.lacity.org/): Applicable datasets include:
