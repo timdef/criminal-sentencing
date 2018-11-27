@@ -11,9 +11,10 @@
 2. [California Board of State and Community Corrections](http://www.bscc.ca.gov/m_data&research.php): Datasets and research gathered by the state at the state and county level.  
 
 #### Local Resources
-1. [Los Angeles Superior Court](http://www.lacourt.org/)
-    * [Search Criminal Case Number](http://www.lacourt.org/online/criminal): Allows anyone to search for a criminal case number by the defendant's name or date range. Fee required for name searches. The search provides a list of case numbers, defendant name, filing date, and filing location of cases matching the defendant name. 
+1. [Los Angeles Superior Court](http://www.lacourt.org/):
+    * [Search Criminal Case Number](http://www.lacourt.org/online/criminal): Allows anyone to search for a criminal case number by the defendant's name or date range/filing location. Fee required for name searches. The search provides a list of case numbers, defendant name, filing date, and filing location of cases matching the defendant name. 
     * [Search Criminal Case Summary](http://www.lacourt.org/criminalcasesummary/ui/): After finding the case number, you can use it to search for a case summary, which includes information such as: case number, defendant name, violation date, filing date, courthouse, charge, plea, disposition, past events, scheduled future events, bail, and sentencing information.
+    * [LASC 2017 Annual Report](http://www.lacourt.org/newsmedia/notices/annualreport): Provides list of LASC courthouses handling criminal cases. The LASC handled 180,000 criminal cases in FY 16/17, including 38,000 felonies. 
 2. [Los Angeles Law Library](http://www.lalawlibrary.org/index.php/legal-research/online-catalog.html)
 3. [data.lacity.org](https://data.lacity.org/): Applicable datasets include:
     * [Los Angeles City Arrest Data, 2010-Present](https://data.lacity.org/A-Safe-City/Arrest-Data-from-2010-to-Present/yru6-6re4): Contains data from **arrest reports** including date, time, charge, age, gender, descenct, and location. Sentencing data not included. Data provided by the LAPD.
