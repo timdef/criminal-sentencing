@@ -14,9 +14,10 @@
 1. [data.lacity.org](https://data.lacity.org/): Applicable datasets include:
     * [Los Angeles City Arrest Data, 2010-Present](https://data.lacity.org/A-Safe-City/Arrest-Data-from-2010-to-Present/yru6-6re4): Contains data from **arrest reports** including date, time, charge, age, gender, descenct, and location. Sentencing data not included. Data provided by the LAPD.
     * [Los Angeles City Crime Data, 2010-Present](https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq): Contains data from **crime reports** including date, time, crime, victim age, victim gender, victim descent, location, and status of case. Sentencing specifics not included. Data provided by LAPD. 
-2. [Los Angeles County Jail](http://www.lajailinfo.com)
-3. [Los Angeles County Sherriff’s Department](http://www.lasd.org/public_data_sharing.html)
-4. [Los Angeles Almanac](http://www.laalmanac.com/crime/cr25.php): List of County corrections facilities & jails in Los Angeles County
+2. [Los Angeles Superior Court](http://www.lacourt.org/)
+3. [Los Angeles County Jail](http://www.lajailinfo.com)
+4. [Los Angeles County Sherriff’s Department](http://www.lasd.org/public_data_sharing.html)
+5. [Los Angeles Almanac](http://www.laalmanac.com/crime/cr25.php): List of County corrections facilities & jails in Los Angeles County
 
 
 #### Independent Organizations
