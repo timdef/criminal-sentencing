@@ -32,4 +32,5 @@ What websites?
 What journalists?
 
 Do judges 'own' specific courthouses/departments? E.g. can we tie a judge to a courthouse? 
+
 Is it possible to get historic information from LA Superior Court? Calendar search only lets us look up cases that are on-going, and from today's date to 3 months into the future. 
