@@ -1,2 +1,2 @@
-* [Links](criminal-sentencing/resources/links.md)
-* [Definitions document](criminal-sentencing/resources/definitions.md)
+* [Links](links.md)
+* [Definitions document](definitions.md)
