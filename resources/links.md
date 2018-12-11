@@ -9,6 +9,7 @@
 1. [California Courts](http://www.courts.ca.gov/12941.htm): State website providing information on California state courts which include **superior courts** (also known as "trial Courts") and **appellate courts**, which are made up of the **Court of Appeals** and **California Supreme Court**.   
     * [California Courts - Research and Statistics page](http://www.courts.ca.gov/627.htm)
 2. [California Board of State and Community Corrections](http://www.bscc.ca.gov/m_data&research.php): Datasets and research gathered by the state at the state and county level.  
+3. [California DOJ OpenJustice Initiative](https://openjustice.doj.ca.gov/data): Data provided by the California Department of Justice around aggregated criminal data, meant to enhance transparency and public accountability. 
 
 #### Local Resources
 1. [Los Angeles Superior Court](http://www.lacourt.org/):

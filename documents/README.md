@@ -39,3 +39,5 @@
 * Calendar search only lets us look up cases that are on-going, and from today's date to 3 months into the future. 
 
 * Is there a way to find sentencing data for specific judges? i.e. when they're coming up for re-election?
+
+* How does California -- and Los Angeles specifically -- use programs/algorithms during sentencing? Does the LA Criminal Court System (still) use programs like [COMPAS](https://www.cdcr.ca.gov/rehabilitation/docs/FS_COMPAS_Final_4-15-09.pdf), and to what extent? 
