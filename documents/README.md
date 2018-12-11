@@ -40,5 +40,4 @@
 
 * Is there a way to find sentencing data for specific judges? i.e. when they're coming up for re-election?
 
-* Is California still using an algorithm or program for sentences and bail amounts? **Yes, called Compas -- See /resources/links for more info**  
-
+* How does California -- and Los Angeles specifically -- use programs/algorithms during sentencing? Does the LA Criminal Court System (still) use programs like COMPAS(https://www.cdcr.ca.gov/rehabilitation/docs/FS_COMPAS_Final_4-15-09.pdf), and to what extent? 
