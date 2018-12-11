@@ -19,9 +19,18 @@ Example: a person who has been charged with murder will be taken into custody an
     * **Misdemeanors:** More serious crimes which carry penalties of up to 1 year in county jail but not time in prison and/or fines of up to $1,000. These include trespassing, disorderly conduct, vandalism, DUI, domestic violence, shoplifting, petty theft, assault and battery, indecent exposure, drug possession, prostitution, disturbing the peace, etc. 
     * **Felonies:** Felonies are the most serious type of crime. These crimes carry penalties of more than 1 year in state prison, fines, probations, parole, and other penalities, or in the most serious cases, the death penalty. These crimes include murder, homicide, manslaughter, rape, assault with a deadly weapon, battery, hate crimes, kidnapping, drug possession, drug distribution, gang cases, grand theft, hate crimes, DUI, child pornography, obstructing justice, perjury, criminal threats, etc. 
   
+**Felony Sentencing**
+California’s criminal justice system uses three types of sentences for people who are convicted of crimes: probation, determinate sentences, and indeterminate sentences. 
+  * **Determinate Sentences**: Determinate sentences are for a **specific amount of time**, like 5 years, after which the offender is released. These sentences are set by the Determinate Sentencing Law (DSL), which is based on sentencing guidelines, mandatory minimum sentences, and enhanced sentences statutes. Most sentences in California are set per the DSL. 
+    * **Sentencing Triad**: Under determinate sentencing, the state penal code specifies a low, medium, and high sentencing term for each offense, called the **sentencing triad**. Judges are expected to impose the middle term, unless there are 'aggravating or mitigating' factors whereby the judge may impose the lower or upper term. For example, the sentencing triad for the unlawful taking of a vehicle (Penal Code Section 10851(a) allows the court to sentence the offender to 16 months, 2 years, or 3 years. 
+    * **Enhances Sentence Statues**: The court can also 'enhance' or add to the length of a sentence (such as by 5 years), as specified in statute, based on circumstances around the crime (like committing a felony to benefit a gang) or around the individual's criminal history (offenders previously convicted of a serious felony). 
+  * **Indeterminate Sentences**: Indeterminate sentences are for a **minimum amount to unspecified maximum amount of time**, such as "25-years-to-life". After serving the minimum sentence, a parole board determines whether the offender is 'sufficiently rehabilitated'. These are used only for certain series crimes, like first degree murder. 
   
 ### Sources
 1. https://www.prisonfellowship.org/resources/training-resources/in-prison/faq-jail-prison/
 2. https://www.hoffmanlawoffice.com/differences-between-state-prison-and-county-jail.html
 3. [How courts work - California Courts website](http://www.courts.ca.gov/998.htm)
 4. [Court Speak - Los Angeles Superior Court](http://www.lacourt.org/newsmedia/Uploads/14200972484357MediaGlossary-pdf_Layout1.pdf):  - Definitions of common legal terms provided by the Los Angeles Superior Court
+5. [California Department of Corrections and Rehabilitation](https://www.cdcr.ca.gov/victim_services/sentencing.html#CALIFORNIAS_SENTENCING_LAWS)
+6. [Sentencing in California - California Budget and Policy Center](https://calbudgetcenter.org/resources/sentencing-in-california-moving-toward-a-smarter-more-cost-effective-approach/#Sentencing)
+7. [California Sentencing Cheatsheet - Avvo](https://www.avvo.com/legal-guides/ugc/ca-felony-sentencing-cheat-sheet)
