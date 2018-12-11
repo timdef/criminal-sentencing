@@ -39,3 +39,6 @@
 * Calendar search only lets us look up cases that are on-going, and from today's date to 3 months into the future. 
 
 * Is there a way to find sentencing data for specific judges? i.e. when they're coming up for re-election?
+
+* Is California still using an algorithm or program for sentences and bail amounts? **Yes, called Compas -- See /resources/links for more info**  
+
